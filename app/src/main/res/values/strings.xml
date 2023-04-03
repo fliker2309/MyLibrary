@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyLibrary</string>
+    <string name="saveBook">Save book</string>
+    <string name="EnterAuthor">Enter Author</string>
+    <string name="EnterBookName">Enter book name</string>
+    <string name="EnterGenre">Enter Genre</string>
 </resources>
